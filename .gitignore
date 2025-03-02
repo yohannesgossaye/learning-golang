@@ -1,0 +1,11 @@
+# Ignore Go workspace files
+bin/
+pkg/
+.vscode/
+
+# Ignore Docker-related files
+Dockerfile
+docker-compose.yml
+
+# Ignore environment files
+.env
