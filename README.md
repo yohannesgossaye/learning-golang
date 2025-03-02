@@ -1,4 +1,3 @@
-markdown
 # Learning Golang with Docker
 
 This is a simple CRUD (Create, Read, Update, Delete) application built with **Go (Golang)**, **PostgreSQL**, and **Docker**. The application allows you to manage users through a web interface.
@@ -139,11 +138,3 @@ If you have any questions or feedback, feel free to reach out:
 - **GitHub**: [yohannesgossaye](https://github.com/yohannesgossaye)
 - **Email**: [yohannesgossaye73@gmail.com]
 ```
-
----
-
-### **Why This README Works**
-1. **Clear and Concise**: Explains the project in simple terms.
-2. **Step-by-Step Instructions**: Provides detailed steps to set up and run the application.
-3. **Professional Formatting**: Uses headings, code blocks, and lists for readability.
-4. **Comprehensive**: Covers everything from prerequisites to database schema and contributing guidelines.
